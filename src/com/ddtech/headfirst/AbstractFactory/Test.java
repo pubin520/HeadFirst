@@ -17,5 +17,12 @@ public class Test {
             Keybo keybo1=dellFactory.createKeybo();
             keybo1.say();
             //若有其他工厂也要生产鼠标可键盘，如苹果工厂只需创建 IPhoneFactory,IPhoneMouse,IPoneKeybo就可以
+
+            AbstractFactory iphoneFactory=new IPhoneFactory();
+            Mouse mouse2=iphoneFactory.createMouse();
+            mouse2.say();
+
+            Keybo keybo2=iphoneFactory.createKeybo();
+            keybo2.say();
     }
 }
