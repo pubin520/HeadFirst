@@ -1,4 +1,4 @@
-package com.ddtech.comm.observer.observer;
+package com.ddtech.headfirst.observer;
 
 import com.ddtech.headfirst.observer.Observer;
 import com.ddtech.headfirst.observer.Subject;
