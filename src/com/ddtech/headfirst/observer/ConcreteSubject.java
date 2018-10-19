@@ -1,8 +1,5 @@
 package com.ddtech.headfirst.observer;
 
-import com.ddtech.headfirst.observer.Observer;
-import com.ddtech.headfirst.observer.Subject;
-
 import java.util.ArrayList;
 import java.util.List;
 
