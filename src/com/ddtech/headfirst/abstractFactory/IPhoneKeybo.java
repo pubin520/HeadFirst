@@ -1,4 +1,4 @@
-package com.ddtech.headfirst.AbstractFactory;
+package com.ddtech.headfirst.abstractFactory;
 
 public class IPhoneKeybo implements  Keybo
 {

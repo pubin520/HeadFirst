@@ -1,4 +1,4 @@
-package com.ddtech.headfirst.AbstractFactory;
+package com.ddtech.headfirst.abstractFactory;
 
 /**
  * 抽象工厂与工厂模式
